@@ -1,2 +1,2 @@
 # YahooFootballAPI
-access Fantasy Football database on Yahoo
+access Fantasy Football database on Yahoo!
